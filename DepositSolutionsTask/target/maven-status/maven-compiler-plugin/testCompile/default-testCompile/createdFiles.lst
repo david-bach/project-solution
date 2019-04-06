@@ -1,0 +1,4 @@
+App\DepositSolutionsTask\FluentLenium_core.class
+App\DepositSolutionsTask\AppTest.class
+App\DepositSolutionsTask\RestAssured_core.class
+App\DepositSolutionsTask\Selenium_core.class
